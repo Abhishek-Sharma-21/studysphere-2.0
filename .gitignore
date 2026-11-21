@@ -1,0 +1,18 @@
+node_modules/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+
+*.log
+coverage/
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep documentation local
+docs/
